@@ -1,0 +1,33 @@
+body {
+	padding: 5vh 10vw;
+	font-family: helvetica;
+}
+
+#header {
+	background: #f7f7f7;
+	padding: 1vh 0;
+}
+
+#header ul {
+	list-style-type: none;
+	padding-left: 1vw;
+}
+
+#header ul li {
+	display: inline;
+	padding-right: 2vw;
+}
+
+a.nav-link {
+	text-decoration: none;
+	color: #000;
+	font-style: bold;
+}
+
+a.nav-link:hover {
+	text-decoration: underline;
+}
+
+span.strong {
+	font-style: bold;
+}
